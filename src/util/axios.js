@@ -1,7 +1,7 @@
 // 引入axios
 import axios from 'axios';
 
-let baseUrl = "http://api.jqrjq.cn"
+let baseUrl = "https://api.jqrjq.cn"
 
 // 创建axios实例
 const httpService = axios.create({
